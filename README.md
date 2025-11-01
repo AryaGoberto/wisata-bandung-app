@@ -1,16 +1,46 @@
-# wisatabandung
+# 🏞️ Wisata Bandung App
 
-A new Flutter project.
+Aplikasi **Wisata Bandung** adalah aplikasi berbasis **Flutter** yang menampilkan berbagai destinasi wisata populer di Bandung.  
+Proyek ini dikembangkan sebagai latihan membangun aplikasi mobile/web modern dengan integrasi **Firebase** untuk hosting dan manajemen data.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 🗺️ Daftar destinasi wisata Bandung dengan gambar & deskripsi  
+- 🔍 Pencarian dan filter tempat wisata berdasarkan kategori  
+- ❤️ Favoritkan tempat wisata yang disukai  
+- ☁️ Hosting otomatis dengan **Firebase Hosting**  
+- 🌐 Mendukung tampilan di web dan perangkat mobile (Flutter Web Responsive)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧰 Teknologi yang Digunakan
+
+| Kategori | Teknologi |
+|-----------|------------|
+| Frontend | Flutter (Dart) |
+| State Management | Provider / Riverpod *(pilih sesuai yang kamu pakai)* |
+| Backend / Hosting | Firebase Hosting |
+| Database (opsional) | Cloud Firestore |
+| Authentication (opsional) | Firebase Auth |
+| Version Control | Git & GitHub |
+| Deployment | GitHub Actions + Firebase CI/CD |
+
+---
+
+## 📸 Preview
+
+> 💡 Tambahkan screenshot / gif singkat dari tampilan aplikasi kamu  
+> Misalnya:
+>
+> ![Preview](assets/preview.png)
+
+---
+
+## 🧑‍💻 Cara Menjalankan Proyek
+
+### 1️⃣ Clone repository
+```bash
+git clone https://github.com/arya-goberto/wisatabandung.git
+cd wisatabandung
